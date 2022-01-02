@@ -1,0 +1,6 @@
+amphibians - plazy
+birds - ptaki
+fish - ryby
+insects - owady
+mammals - ssaki
+reptile - gady
